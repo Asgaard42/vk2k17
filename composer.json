@@ -1,0 +1,7 @@
+{
+    "require": {
+        "getjump/vk": "*",
+        "atehnix/vk-client": "^1.3"
+    }
+
+}
